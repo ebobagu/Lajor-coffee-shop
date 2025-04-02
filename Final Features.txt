@@ -1,9 +1,0 @@
- Final Features
-🔹 Connects MetaMask 🦊
-🔹 Fetches ETH balance via Django
-🔹 Displays ERC-20 Tokens
-🔹 Shows NFTs from OpenSea
-🔹 Modular React Components (NFTCard.js, TokenList.js)
-
-🚀 Now you have a fully functional Web3 Dashboard with Django & React!
-Let me know if you want extra features like login, transactions, or price charts!
